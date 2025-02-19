@@ -1,0 +1,4 @@
+baseURL = 'http://terranul-dev.github.io'
+languageCode = 'en-us'
+title = 'terranul.dev'
+theme = 'PaperMod'
