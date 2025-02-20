@@ -1,8 +1,8 @@
 ---
 date: 2025-02-19T23:25:10.284Z
 draft: false
-title: ""
-description: ""
+title: "What is terranul?"
+description: "Place? Concept? Is?"
 tags:
   - terranul
   - philosophy
